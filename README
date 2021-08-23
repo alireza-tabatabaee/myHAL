@@ -1,4 +1,5 @@
 # myHAL
+
 I have started programming my own HAL library for the STM32F303VCT microcontroller as a way to deepen my knowledge about ST MCUs and embedded programming.
 
 I was massively influenced by Fastbit Academy's driver development course for this project, so make sure to check out [their driver development Udemy course](https://www.udemy.com/course/mastering-microcontroller-with-peripheral-driver-development/).
