@@ -8,10 +8,11 @@ I was massively influenced by Fastbit Academy's driver development course for th
 Until now, I have implemented:
 - GPIO
 - EXTI
+- SPI (blocking, master, transmit only)
+- IWDG
 
 And am planning to implement
 - USART/UART
-- SPI
 - I2C
 - Timers
 

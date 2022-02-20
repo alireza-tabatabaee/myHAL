@@ -410,6 +410,11 @@
               <FileType>5</FileType>
               <FilePath>.\HAL\inc\STM32F303xx_SPI.h</FilePath>
             </File>
+            <File>
+              <FileName>STM32F303xx_IWDG.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\HAL\src\STM32F303xx_IWDG.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>

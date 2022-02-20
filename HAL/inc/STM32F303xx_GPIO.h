@@ -56,7 +56,7 @@ typedef struct {
 void GPIO_InitPin(GPIO_RegDef*,uint16_t,uint8_t,uint8_t,uint8_t,uint8_t,uint8_t);
 uint8_t GPIO_ReadPin(GPIO_RegDef* GPIOx, uint16_t pinNum);
 void GPIO_WritePin(GPIO_RegDef* GPIOx, uint16_t pinNum, uint8_t val);
-void GPIO_WritePin(GPIO_RegDef* GPIOx, uint16_t pinNum, uint8_t val);
+//void GPIO_WritePin(GPIO_RegDef* GPIOx, uint16_t pinNum, uint8_t val);
 void GPIO_TogglePin(GPIO_RegDef* GPIOx, uint16_t pinNum);
 uint16_t GPIO_ReadPort(GPIO_RegDef*);
 void GPIO_WritePort(GPIO_RegDef* , uint16_t);
